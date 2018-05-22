@@ -1,0 +1,5 @@
+ls
+git -v
+git --version
+uname -a
+man mk

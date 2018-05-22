@@ -12,8 +12,11 @@ a copy of emacs (spacemacs) files for windows
 
 For better typeScript support run:
 > npm install -g typescript
+
 > npm install -g tslint
+
 > npm install -g typescript-formatter
+
 
 
 
