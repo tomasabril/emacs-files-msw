@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+8779176a7ef89db0319769a9fc1ce99ffac1b9cb refs/remotes/origin/allinone
+68ea5776bb5c48d19bc12efca4c4c5f57ae2e914 refs/remotes/origin/make-improvements
+28b2d8802f98e339ff01ecf9733b71b6c631123e refs/remotes/origin/master
+4d1064e51cc9da768830e63d5d52af27b926d756 refs/remotes/origin/need-wiki
+30525ae70754c6190ff5306c6985009557f6a402 refs/remotes/origin/new-fetchers
